@@ -1,0 +1,16 @@
+{
+  "name": "nginx",
+  "version": "1.0.0",
+  "description": "Node.js Deployment using NGINX, SSL With Lets Encrypt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Asad Habeeb",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
